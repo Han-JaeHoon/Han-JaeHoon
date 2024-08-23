@@ -51,7 +51,3 @@ You can click the Preview link to take a look at your changes.
 <td style="width: 271px; height: 18px;">&nbsp;</td>
 <td style="width: 188px; height: 18px;">&nbsp;</td>
 </tr>
-</tbody>
-</table>
-<p><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
-<p><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
