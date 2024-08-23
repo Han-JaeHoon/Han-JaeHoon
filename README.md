@@ -47,56 +47,6 @@ You can click the Preview link to take a look at your changes.
 <td style="width: 271px; height: 21px;">Dec 2020</td>
 <td style="width: 188px; height: 21px;">우수상</td>
 </tr>
-<tr style="height: 22px;">
-<td style="width: 143px; height: 22px;">&nbsp;</td>
-<td style="width: 296px; height: 22px;">&nbsp;</td>
-<td style="width: 271px; height: 22px;">&nbsp;</td>
-<td style="width: 188px; height: 22px;">&nbsp;</td>
-</tr>
-<tr style="height: 22px;">
-<td style="width: 143px; height: 22px;">&nbsp;</td>
-<td style="width: 296px; height: 22px;">&nbsp;</td>
-<td style="width: 271px; height: 22px;">&nbsp;</td>
-<td style="width: 188px; height: 22px;">&nbsp;</td>
-</tr>
-<tr style="height: 19px;">
-<td style="width: 143px; height: 19px;">&nbsp;</td>
-<td style="width: 296px; height: 19px;">&nbsp;</td>
-<td style="width: 271px; height: 19px;">&nbsp;</td>
-<td style="width: 188px; height: 19px;">&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 143px; height: 18px;">&nbsp;</td>
-<td style="width: 296px; height: 18px;">&nbsp;</td>
-<td style="width: 271px; height: 18px;">&nbsp;</td>
-<td style="width: 188px; height: 18px;">&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 143px; height: 18px;">&nbsp;</td>
-<td style="width: 296px; height: 18px;">&nbsp;</td>
-<td style="width: 271px; height: 18px;">&nbsp;</td>
-<td style="width: 188px; height: 18px;">&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 143px; height: 18px;">&nbsp;</td>
-<td style="width: 296px; height: 18px;">&nbsp;</td>
-<td style="width: 271px; height: 18px;">&nbsp;</td>
-<td style="width: 188px; height: 18px;">&nbsp;</td>
-</tr>
-<tr style="height: 22px;">
-<td style="width: 143px; height: 22px;">&nbsp;</td>
-<td style="width: 296px; height: 22px;">&nbsp;</td>
-<td style="width: 271px; height: 22px;">&nbsp;</td>
-<td style="width: 188px; height: 22px;">&nbsp;</td>
-</tr>
-<tr style="height: 26px;">
-<td style="width: 143px; height: 26px;">&nbsp;</td>
-<td style="width: 296px; height: 26px;"><span style="color: #000000; font-size: 17px;">&nbsp;</span></td>
-<td style="width: 271px; height: 26px;">&nbsp;</td>
-<td style="width: 188px; height: 26px;">&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 143px; height: 18px;">&nbsp;</td>
 <td style="width: 296px; height: 18px;">&nbsp;</td>
 <td style="width: 271px; height: 18px;">&nbsp;</td>
 <td style="width: 188px; height: 18px;">&nbsp;</td>
