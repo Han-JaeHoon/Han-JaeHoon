@@ -47,7 +47,3 @@ You can click the Preview link to take a look at your changes.
 <td style="width: 271px; height: 21px;">Dec 2020</td>
 <td style="width: 188px; height: 21px;">우수상</td>
 </tr>
-<td style="width: 296px; height: 18px;">&nbsp;</td>
-<td style="width: 271px; height: 18px;">&nbsp;</td>
-<td style="width: 188px; height: 18px;">&nbsp;</td>
-</tr>
